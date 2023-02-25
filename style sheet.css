@@ -3,9 +3,7 @@
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-html{
-display: fill;
-}
+
 header{
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://images8.alphacoders.com/484/thumb-1920-484717.jpg");
     background-size: cover;
